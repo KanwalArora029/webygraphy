@@ -1,1 +1,1 @@
-# webygraphy
+# Weby Graphy Personal Website
