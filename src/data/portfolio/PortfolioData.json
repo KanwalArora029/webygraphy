@@ -1,0 +1,341 @@
+[
+  {
+    "id": 1,
+    "portfolioImage": "./assets/images/portfolio/hamilton-brown.png",
+    "image": "./assets/images/portfolio/hamilton-brown.png",
+    "title": "Hamilton Brown",
+    "subtitle": "Branded client",
+    "date": "30 May 2021",
+    "client": "Hamilton Brown",
+    "category": "development",
+    "excerpt": "Design beautiful apps.",
+    "body": [
+      "<p>In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme).</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p>"
+    ],
+    "btn": {
+      "buttontext": "View Projects",
+      "link": "/"
+    },
+    "largeImage": "./assets/images/portfolio/hamilton-brown.png",
+    "subContent": {
+      "title": "Digital Marketing.",
+      "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent2": {
+      "title": "App Development.",
+      "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent3": {
+      "title": "Solution.",
+      "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "gallery": {
+      "imageOne": "images/portfolio/portfolio-01.jpg",
+      "imageTwo": "images/portfolio/portfolio-02.jpg",
+      "imageThree": "images/portfolio/portfolio-03.jpg"
+    }
+  },
+
+  {
+    "id": 2,
+    "portfolioImage": "./assets/images/portfolio/buster-punch.png",
+    "image": "./assets/images/portfolio/buster-punch.png",
+    "title": "Buster & Punch",
+    "subtitle": "Awesome portfolio",
+    "date": "01 March 2021",
+    "client": "Buster & Punch",
+    "category": "design",
+    "excerpt": "Design beautiful apps.",
+    "body": [
+      "<p>In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme).</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p>"
+    ],
+    "btn": {
+      "buttontext": "View Projects",
+      "link": "/"
+    },
+    "largeImage": "./assets/images/portfolio/buster-punch.png",
+    "subContent": {
+      "title": "Digital Marketing.",
+      "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent2": {
+      "title": "App Development.",
+      "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent3": {
+      "title": "Solution.",
+      "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "gallery": {
+      "imageOne": "images/portfolio/portfolio-01.jpg",
+      "imageTwo": "images/portfolio/portfolio-02.jpg",
+      "imageThree": "images/portfolio/portfolio-03.jpg"
+    }
+  },
+
+  {
+    "id": 3,
+    "portfolioImage": "./assets/images/portfolio/bagbutler.png",
+    "image": "./assets/images/portfolio/bagbutler.png",
+    "title": "Bag Butler",
+    "subtitle": "Awesome portfolio",
+    "date": "01 March 2021",
+    "client": "Bag Butler",
+    "category": "development",
+    "awards": ["2020 Design beautiful apps Finale Awards"],
+    "excerpt": "Design beautiful apps.",
+    "body": [
+      "<p>In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme).</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p>"
+    ],
+    "btn": {
+      "buttontext": "View Projects",
+      "link": "/"
+    },
+    "largeImage": "./assets/images/portfolio/bagbutler.png",
+    "subContent": {
+      "title": "Digital Marketing.",
+      "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent2": {
+      "title": "App Development.",
+      "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent3": {
+      "title": "Solution.",
+      "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "gallery": {
+      "imageOne": "images/portfolio/portfolio-01.jpg",
+      "imageTwo": "images/portfolio/portfolio-02.jpg",
+      "imageThree": "images/portfolio/portfolio-03.jpg"
+    }
+  },
+
+  {
+    "id": 4,
+    "portfolioImage": "./assets/images/portfolio/maxim-world.png",
+    "image": "images/portfolio/maxim-world",
+    "title": "Maxim World",
+    "subtitle": "Awesome portfolio",
+    "date": "01 March 2021",
+    "client": "Maxim World",
+    "category": "development",
+    "awards": ["2020 Design beautiful apps Finale Awards"],
+    "excerpt": "Design beautiful apps.",
+    "body": [
+      "<p>In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme).</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p>"
+    ],
+    "btn": {
+      "buttontext": "View Projects",
+      "link": "/"
+    },
+    "largeImage": "images/portfolio/maxim-world",
+    "subContent": {
+      "title": "Digital Marketing.",
+      "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent2": {
+      "title": "App Development.",
+      "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent3": {
+      "title": "Solution.",
+      "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "gallery": {
+      "imageOne": "images/portfolio/portfolio-01.jpg",
+      "imageTwo": "images/portfolio/portfolio-02.jpg",
+      "imageThree": "images/portfolio/portfolio-04.jpg"
+    }
+  },
+
+  {
+    "id": 5,
+    "portfolioImage": "./assets/images/portfolio/curious-village.jpg",
+    "image": "./assets/images/portfolio/curious-village.jpg",
+    "title": "Curious Village",
+    "subtitle": "Awesome portfolio",
+    "date": "01 March 2021",
+    "client": "Curious Village",
+    "category": "development",
+    "awards": ["2020 Design beautiful apps Finale Awards"],
+    "excerpt": "Design beautiful apps.",
+    "body": [
+      "<p>In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme).</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p>"
+    ],
+    "btn": {
+      "buttontext": "View Projects",
+      "link": "/"
+    },
+    "largeImage": "./assets/images/portfolio/curious-village.jpg",
+    "subContent": {
+      "title": "Digital Marketing.",
+      "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent2": {
+      "title": "App Development.",
+      "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent3": {
+      "title": "Solution.",
+      "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "gallery": {
+      "imageOne": "images/portfolio/portfolio-01.jpg",
+      "imageTwo": "images/portfolio/portfolio-02.jpg",
+      "imageThree": "images/portfolio/portfolio-03.jpg"
+    }
+  },
+
+  {
+    "id": 6,
+    "portfolioImage": "./assets/images/portfolio/dream-travel.png",
+    "image": "./assets/images/portfolio/dream-travel.png",
+    "title": "Dream Travel",
+    "subtitle": "Awesome portfolio",
+    "date": "01 March 2021",
+    "client": "Dream Travel",
+    "category": "development",
+    "awards": ["2020 Design beautiful apps Finale Awards"],
+    "excerpt": "Design beautiful apps.",
+    "body": [
+      "<p>In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme).</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p>"
+    ],
+    "btn": {
+      "buttontext": "View Projects",
+      "link": "/"
+    },
+    "largeImage": "./assets/images/portfolio/dream-travel.png",
+    "subContent": {
+      "title": "Digital Marketing.",
+      "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent2": {
+      "title": "App Development.",
+      "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent3": {
+      "title": "Solution.",
+      "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "gallery": {
+      "imageOne": "images/portfolio/portfolio-01.jpg",
+      "imageTwo": "images/portfolio/portfolio-02.jpg",
+      "imageThree": "images/portfolio/portfolio-06.jpg"
+    }
+  },
+
+  {
+    "id": 7,
+    "portfolioImage": "./assets/images/portfolio/blog-generator.jpg",
+    "image": "./assets/images/portfolio/blog-generator.jpg",
+    "title": "Design in figma",
+    "subtitle": "Awesome portfolio",
+    "date": "01 March 2021",
+    "client": "Rainbow Themes",
+    "category": "ai",
+    "awards": ["2020 Design beautiful apps Finale Awards"],
+    "excerpt": "Design beautiful apps.",
+    "body": [
+      "<p>In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme).</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p>"
+    ],
+    "btn": {
+      "buttontext": "View Projects",
+      "link": "/"
+    },
+    "largeImage": "./assets/images/portfolio/blog-generator.jpg",
+    "subContent": {
+      "title": "Digital Marketing.",
+      "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent2": {
+      "title": "App Development.",
+      "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent3": {
+      "title": "Solution.",
+      "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "gallery": {
+      "imageOne": "images/portfolio/portfolio-01.jpg",
+      "imageTwo": "images/portfolio/portfolio-02.jpg",
+      "imageThree": "images/portfolio/portfolio-03.jpg"
+    }
+  },
+
+  {
+    "id": 8,
+    "portfolioImage": "./assets/images/portfolio/chat-with-pdf.jpg",
+    "image": "./assets/images/portfolio/chat-with-pdf.jpg",
+    "title": "Chat with Multiple PDF",
+    "subtitle": "Awesome portfolio",
+    "date": "01 March 2021",
+    "client": "Rainbow Themes",
+    "category": "ai",
+    "awards": ["2020 Design beautiful apps Finale Awards"],
+    "excerpt": "Design beautiful apps.",
+    "body": [
+      "<p>In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme).</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p>"
+    ],
+    "btn": {
+      "buttontext": "View Projects",
+      "link": "/"
+    },
+    "largeImage": "./assets/images/portfolio/chat-with-pdf.jpg",
+    "subContent": {
+      "title": "Digital Marketing.",
+      "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent2": {
+      "title": "App Development.",
+      "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent3": {
+      "title": "Solution.",
+      "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "gallery": {
+      "imageOne": "images/portfolio/portfolio-01.jpg",
+      "imageTwo": "images/portfolio/portfolio-02.jpg",
+      "imageThree": "images/portfolio/portfolio-03.jpg"
+    }
+  },
+
+  {
+    "id": 9,
+    "portfolioImage": "./assets/images/portfolio/healthcare-ai-app.jpg",
+    "image": "./assets/images/portfolio/healthcare-ai-app.jpg",
+    "title": "Creative Business",
+    "subtitle": "Awesome portfolio",
+    "date": "01 March 2021",
+    "client": "Rainbow Themes",
+    "category": "ai",
+    "awards": ["2020 Design beautiful apps Finale Awards"],
+    "excerpt": "Design beautiful apps.",
+    "body": [
+      "<p>In a typical React application, data is passed top-down (parent to child) via props, but such usage can be cumbersome for certain types of props (e.g. locale preference, UI theme).</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p> <br /> <p>that are required by many components within an application. Context provides a way to share values like these between components without having to explicitly pass a prop through every level of the tree.</p>"
+    ],
+    "btn": {
+      "buttontext": "View Projects",
+      "link": "/"
+    },
+    "largeImage": "./assets/images/portfolio/healthcare-ai-app.jpg",
+    "subContent": {
+      "title": "Digital Marketing.",
+      "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent2": {
+      "title": "App Development.",
+      "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "subContent3": {
+      "title": "Solution.",
+      "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+    },
+    "gallery": {
+      "imageOne": "images/portfolio/portfolio-01.jpg",
+      "imageTwo": "images/portfolio/portfolio-02.jpg",
+      "imageThree": "images/portfolio/portfolio-03.jpg"
+    }
+  }
+]
