@@ -7,7 +7,6 @@ import Service from "../elements/service/Service";
 
 // About Components
 import AboutWebDevelopment from "../elements/about/AboutWebDevelopment";
-import AI from "../elements/about/AboutAI";
 import AboutDigitalMarketing from "../elements/about/AboutDigitalMarketing";
 import Seprator from "../elements/seperator/Seprator";
 import AboutAI from "../elements/about/AboutAI";

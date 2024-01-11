@@ -5,11 +5,13 @@ import Brand from "../elements/brand/Brand";
 import SectionTitle from "../elements/sectionTitle/SectionTitle";
 import Separator from "../elements/seperator/Seprator";
 import Timeline from "../elements/timeline/Timeline";
+import SEO from "../common/SEO";
 
 const About = () => {
   return (
     <>
       <Layout>
+        <SEO title="About || Weby Graphy" />
         <Breadcrumb
           title="The Easiest Way To Create Website <br /> Quick Copy & Make site."
           rootUrl="/"

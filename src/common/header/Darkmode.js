@@ -8,14 +8,15 @@ const Darkmode = () => {
     <button id="darkmode" onClick={(e) => switchTheme(e)}>
       <img
         className="light-icon"
-        src={`${process.env.PUBLIC_URL}/assets/images/icons/sun-01.svg`}
-        //src={process.env.PUBLIC_URL + "/assets/images/icons/sun-01.svg"}
+        //src={"/assets/images/icons/sun-01.svg"}
+        src={process.env.PUBLIC_URL + "/assets/images/icons/sun-01.svg"}
         alt="Sun images"
       />
       <img
         className="dark-icon"
-        src={`${process.env.PUBLIC_URL}/assets/images/icons/vector.svg`}
-        alt="Sun images"
+        //src={"/assets/images/icons/vector.svg"}
+        src={process.env.PUBLIC_URL + "/assets/images/icons/vector.svg"}
+        alt="Moon images"
       />
     </button>
   );

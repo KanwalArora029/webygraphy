@@ -9,12 +9,12 @@ const Logo = ({ image, image2 }) => {
         <img
           className="logo-light"
           src={process.env.PUBLIC_URL + image}
-          alt="Corporate Logo"
+          alt="Weby Graphy Logo"
         />
         <img
           className="logo-dark"
           src={process.env.PUBLIC_URL + image2}
-          alt="Corporate Logo"
+          alt="Weby Graphy Logo"
         />
       </Link>
     </div>

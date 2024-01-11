@@ -30,8 +30,8 @@ const Header = ({ btnStyle, HeaderSTyle }) => {
           <div className="row align-items-center row--0">
             <div className="col-lg-3 col-md-6 col-4">
               <Logo
-                image={`${process.env.PUBLIC_URL}/assets/images/logo/logo.png`}
-                image2={`${process.env.PUBLIC_URL}/assets/images/logo/logo-dark.png`}
+                image={"/assets/images/logo/logo.png"}
+                image2={"/assets/images/logo/logo-dark.png"}
               />
             </div>
             <div className="col-lg-9 col-md-6 col-8 position-static">

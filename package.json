@@ -1,5 +1,6 @@
 {
   "name": "weby-react",
+  "homepage": "http://webygraphy.co.uk/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

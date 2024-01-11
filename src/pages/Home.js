@@ -12,19 +12,19 @@ import SEO from "../common/SEO";
 const Home = () => {
   const BannerData = [
     {
-      image: "/assets/images/banner/digital.jpg",
+      image: "./assets/images/banner/digital.jpg",
       title: "Digital Agency.",
       description:
         "We help our clients succeed by creating brand identities, digital experiences, and print materials.",
     },
     {
-      image: "/assets/images/banner/creative.jpg",
+      image: "./assets/images/banner/creative.jpg",
       title: "Creative Agency.",
       description:
         "We help our clients succeed by creating brand identities, digital experiences, and print materials.",
     },
     {
-      image: "/assets/images/banner/Start-up.jpg",
+      image: "./assets/images/banner/Start-up.jpg",
       title: "Startup Agency.",
       description:
         "We help our clients succeed by creating brand identities, digital experiences, and print materials.",
@@ -45,7 +45,7 @@ const Home = () => {
               <div
                 className="height-950 bg-overlay bg_image"
                 style={{
-                  backgroundImage: `url(${process.env.PUBLIC_URL} ${data.image})`,
+                  backgroundImage: `url(${data.image})`,
                 }}
               >
                 <div className="container">
@@ -60,9 +60,7 @@ const Home = () => {
                           className="description"
                           dangerouslySetInnerHTML={{ __html: data.description }}
                         ></p>
-                        <div className="button-group mt--30">
-                          {/* <a className="btn-default" target="_blank" href="https://themeforest.net/checkout/from_item/33571911?license=regular">PURCHASE NOW</a> */}
-                        </div>
+                        <div className="button-group mt--30"></div>
                       </div>
                     </div>
                   </div>

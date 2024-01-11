@@ -29,8 +29,8 @@ const Footer = () => {
                 <div className="rn-footer-widget">
                   <div className="inner">
                     <Logo
-                      image={`${process.env.PUBLIC_URL}/assets/images/logo/logo.png`}
-                      image2={`${process.env.PUBLIC_URL}/assets/images/logo/logo-dark.png`}
+                      image={"/assets/images/logo/logo.png"}
+                      image2={"/assets/images/logo/logo-dark.png"}
                     />
                   </div>
                 </div>
