@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "http://localhost:3000/static/css/main.5ece4ee8.css",
+    "main.js": "http://localhost:3000/static/js/main.41c8d6ab.js",
+    "static/media/slick.svg": "http://localhost:3000/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "http://localhost:3000/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "http://localhost:3000/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "http://localhost:3000/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "http://localhost:3000/index.html",
+    "main.5ece4ee8.css.map": "http://localhost:3000/static/css/main.5ece4ee8.css.map",
+    "main.41c8d6ab.js.map": "http://localhost:3000/static/js/main.41c8d6ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ece4ee8.css",
+    "static/js/main.41c8d6ab.js"
+  ]
+}
