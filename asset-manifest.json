@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "http://localhost:3000/static/css/main.5ece4ee8.css",
-    "main.js": "http://localhost:3000/static/js/main.41c8d6ab.js",
-    "static/media/slick.svg": "http://localhost:3000/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "http://localhost:3000/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "http://localhost:3000/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "http://localhost:3000/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "http://localhost:3000/index.html",
-    "main.5ece4ee8.css.map": "http://localhost:3000/static/css/main.5ece4ee8.css.map",
-    "main.41c8d6ab.js.map": "http://localhost:3000/static/js/main.41c8d6ab.js.map"
+    "main.css": "https://kanwalarora029.github.io/webygraphy/static/css/main.7291e1ed.css",
+    "main.js": "https://kanwalarora029.github.io/webygraphy/static/js/main.820a0029.js",
+    "static/media/slick.svg": "https://kanwalarora029.github.io/webygraphy/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "https://kanwalarora029.github.io/webygraphy/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "https://kanwalarora029.github.io/webygraphy/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "https://kanwalarora029.github.io/webygraphy/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "https://kanwalarora029.github.io/webygraphy/index.html",
+    "main.7291e1ed.css.map": "https://kanwalarora029.github.io/webygraphy/static/css/main.7291e1ed.css.map",
+    "main.820a0029.js.map": "https://kanwalarora029.github.io/webygraphy/static/js/main.820a0029.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ece4ee8.css",
-    "static/js/main.41c8d6ab.js"
+    "static/css/main.7291e1ed.css",
+    "static/js/main.820a0029.js"
   ]
 }
